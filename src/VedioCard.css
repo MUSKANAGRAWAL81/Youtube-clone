@@ -1,0 +1,32 @@
+.vediocard{
+    margin-bottom: 40px;
+    width: 270px;
+    
+
+}
+.vediocard_tumbnail{
+    height: 150px !important;
+    width: 110px !important;
+}
+.vediocard_info{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+.vediocard_text{
+    margin-left: 15px;
+}
+
+.vediocard_text > h4{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.vediocard_text > p{
+    font-size: 14px;
+    color: gray;
+}
+.vidiocard_avata{
+    height: 30px !important;
+    width: 30px !important;
+}

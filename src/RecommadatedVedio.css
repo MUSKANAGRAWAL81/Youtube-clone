@@ -1,0 +1,23 @@
+.recommadation_vedios{
+    
+    flex: 80%;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+
+}
+
+.recommadation_vedios > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+
+}
+.recommadation_vedios_vediocard{
+    display: flex;
+    flex-wrap: wrap;
+    
+    gap: 150px;
+    row-gap: 20px;
+    flex-direction: row;
+}
